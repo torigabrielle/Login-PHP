@@ -7,7 +7,7 @@ Para testes:
 2- No PHPAdmin, crie uma biblioteca Login e adicione o arquivo SLQ "User".
 
 3- o acesso para o Login é:
-Email: victoriagmail.com
+Email: victoria@gmail.com
 Senha: 123
 
 :)
